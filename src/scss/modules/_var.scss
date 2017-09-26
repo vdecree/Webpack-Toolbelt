@@ -1,0 +1,54 @@
+// ==> sans-serif
+$arial: Arial, "Helvetica Neue", Helvetica, sans-serif;
+$helvetica: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$lucidagrande: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+$trebuchet: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+$verdana: Verdana, Geneva, sans-serif;
+
+// ==> serif
+$baskerville: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+$georgia: Georgia, Times, "Times New Roman", serif;
+$lucidabright: "Lucida Bright", Georgia, serif;
+$tnr: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+
+// ==> monospaced
+$consolas: Consolas, monaco, monospace;
+$courier: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+$monaco: Monaco, Consolas, "Lucida Console", monospace;
+
+// ==> overwrite defaults for modular scale
+// ==> http://www.modularscale.com/
+$ms-base: 1em;
+$ms-ratio: 1.2;
+
+// Base font attributes ---- //
+$fontfamily: $arial;
+$fontsize: 14;
+$lineheight: 1.6;
+
+// Base colours ---- s represents 'Site' //
+$s-Color-white: #FFFFFF;
+$s-Color-black: #2e2e3a;
+$s-Color-base: #2e3037;
+$s-Color-comp: #c8c2ae;
+$s-Color-grey: #CCCCCC;
+$blue: #0eb1d2;
+$pewter: #8ab9b5;
+$turq: #34e4ea;
+$shawdows: #bbb8b2;
+$orange: #f34213;
+$arsenic: #3b3b58;
+$pearl: #eae0d5;
+$purple: #553555;
+$kahki: #c6ac8f;
+$mint: #64f58d;
+$dolphin: #878e88;
+$cambridgeBlue: #96c0b7;
+$lemonSprinkles: #fef6c9;
+$yellow: #e3b505;
+
+//links
+$s-Color_link: $kahki;
+$s-Color_link-focus: $arsenic;
+$s-Color-Bg-focus: $pearl;
+$s-Color_link-hover: $blue;

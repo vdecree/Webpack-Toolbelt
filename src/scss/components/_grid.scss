@@ -1,0 +1,23 @@
+$susy: (
+  'columns': susy-repeat(8),
+  'svg-grid-colors': hsla(180, 50%, 50%, 0.25),
+  'spread': 'narrow',
+  'container-spread': 'narrow',
+);
+
+$BREAKPOINTS: (
+  320: 320px,
+  480: 480px,
+  640: 640px,
+  700: 700px,
+  768: 768px,
+  768to920: (768px 920px),
+  920: 920px,
+  1200: 1200px,
+  1250: 1250px,
+  1260: 1260px,
+);
+
+.contain{
+
+}
