@@ -10,6 +10,10 @@ There are currently three commands you can run:
 2. `npm run production` - This compiles minified code to a `dist` directory.
 3. `npm run start` - This serves the code in a dev server and uses hot reloading. No code gets compiled as it's all done in memory. Once you are ready to compile use `dev` or `production`.
 
+### SCSS
+
+At the moment I compile all my sass from the `src/scss` folder into a css file within the `dist` directory. I also import (via npm) susy, breakpoint and modularscale.
+
 ### To-do
 
 - Add autoprefixr
