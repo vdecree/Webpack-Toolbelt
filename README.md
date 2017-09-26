@@ -12,5 +12,6 @@ There are currently three commands you can run:
 
 ### To-do
 
-Add autoprefixr
-Configure minification tasks properly
+- Add autoprefixr
+- Configure minification tasks properly
+- Cleanup unused plugins
